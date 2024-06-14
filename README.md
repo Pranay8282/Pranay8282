@@ -1,3 +1,4 @@
+![](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif
 # 💫 About Me:
 🎓 I'm currently studying Information technology(B.tech)at L.J Institute of Engineering and Technology, Ahmedabad.<br><br>🌱 I’m currently learning DSA With java<br><br>💡 Some technologies I enjoy working with include JAVA, Python, HTML, CSS, JS, Bootstrap, Tailwind, DBMS.<br><br>📫 How to reach me pranaypatel9696@gmail.com
 
