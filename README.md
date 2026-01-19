@@ -133,8 +133,14 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranaypatel&theme=react-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=10B981&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranaypatel&bg_color=0d1117&color=3b82f6&line=10b981&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
+
+<details>
+  <summary>📊 More Contribution Stats</summary>
+  <br/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=pranaypatel&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</details>
 
 ---
 
