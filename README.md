@@ -587,7 +587,312 @@ jobs:
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/128/3281/3281307.png" width="48"/><br>
+      <img src="https://cdn-icons-png.flaticon.com/128/1005/1005141.png" width="48"/><br>
+      <b>Open Source Contribution</b><br>
+      <sub>Community-driven projects</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://cdn-icons-png.flaticon.com/128/3281/3281289.png" width="48"/><br>
+      <b>Freelance Work</b><br>
+      <sub>Project-based engagements</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://cdn-icons-png.flaticon.com/128/3305/3305645.png" width="48"/><br>
+      <b>Technical Mentorship</b><br>
+      <sub>Skill development & guidance</sub>
+    </td>
+  </tr>
+</table>
+
+### 💡 What I Bring to Your Project
+
+- ✅ **Clean Code Architecture** - Maintainable and scalable solutions
+- ✅ **Rapid Development** - Efficient delivery without compromising quality
+- ✅ **Problem-Solving Mindset** - Creative solutions to complex challenges
+- ✅ **Communication Excellence** - Clear updates and collaborative approach
+- ✅ **Full Project Ownership** - From concept to deployment
+- ✅ **Modern Tech Stack** - Latest tools and best practices
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+### 📫 Let's Build Something Amazing Together!
+
+<p>
+<a href="https://linkedin.com/in/pranay-patel" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/pranaypatel" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:pranaypatel9696@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://sites.google.com/view/pranaypatel1212/home?authuser=0" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+</p>
+
+<p>
+<a href="https://twitter.com/pranaypatel" target="_blank">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://stackoverflow.com/users/pranaypatel" target="_blank">
+  <img src="https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+</a>
+<a href="https://medium.com/@pranaypatel" target="_blank">
+  <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+<a href="https://dev.to/pranaypatel" target="_blank">
+  <img src="https://img.shields.io/badge/-DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to"/>
+</a>
+</p>
+
+### 📧 Reach Out For
+
+💼 **Job Opportunities** • 🤝 **Collaboration** • 💡 **Project Discussions** • 🎓 **Mentorship** • ☕ **Tech Talks**
+
+<br>
+
+> *"The best way to predict the future is to create it."* - **Peter Drucker**
+
+</div>
+
+---
+
+## 🎮 When I'm Not Coding
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn-icons-png.flaticon.com/128/2232/2232688.png" width="60"/><br>
+      <b>📚 Reading</b><br>
+      <sub>Tech books & blogs</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn-icons-png.flaticon.com/128/3176/3176366.png" width="60"/><br>
+      <b>🎌 Anime</b><br>
+      <sub>Animation enthusiast</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn-icons-png.flaticon.com/128/924/924514.png" width="60"/><br>
+      <b>☕ Coffee</b><br>
+      <sub>Fuel for coding</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn-icons-png.flaticon.com/128/2809/2809590.png" width="60"/><br>
+      <b>🎮 Gaming</b><br>
+      <sub>Strategy & puzzle games</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📊 Weekly Development Breakdown
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<sub>📝 *WakaTime stats will appear here once you set up the integration*</sub>
+
+<details>
+<summary>🔧 How to Enable WakaTime Stats (Click to Expand)</summary>
+
+<br>
+
+1. Sign up at [WakaTime](https://wakatime.com)
+2. Install WakaTime plugin in your IDE
+3. Get your WakaTime API key
+4. Add it to your repository secrets as `WAKATIME_API_KEY`
+5. Create `.github/workflows/waka-readme.yml`:
+
+```yaml
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 📈 Metrics & Activity
+
+<div align="center">
+
+### 🔥 Streak Stats
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pranaypatel&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=10B981&currStreakLabel=10B981&dates=FFFFFF&sideLabels=10B981&currStreakNum=FFFFFF&sideNums=FFFFFF)
+
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<sub>📝 *Recent activity will appear here once you set up the GitHub activity workflow*</sub>
+
+<details>
+<summary>🔧 How to Enable Recent Activity (Click to Expand)</summary>
+
+<br>
+
+Create `.github/workflows/update-readme.yml`:
+
+```yaml
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+</div>
+
+---
+
+## 🎯 Profile Summary
+
+<div align="center">
+
+```yaml
+Name: Pranay Patel
+Location: Ahmedabad, Gujarat, India 🇮🇳
+Role: Full Stack Developer & ML Engineer
+Education: LJ University 🎓
+
+Expertise:
+  - Frontend: React.js, JavaScript, HTML/CSS, Tailwind
+  - Backend: Python, Django, Flask, Node.js, Java
+  - AI/ML: TensorFlow, PyTorch, Scikit-Learn, OpenCV
+  - ERP: ERPNext, Frappe Framework
+  - Database: MySQL, PostgreSQL, MongoDB, Redis
+  - DevOps: Docker, Git, Linux, AWS
+
+Current Focus:
+  - Building AI-powered web applications
+  - Custom ERPNext solutions
+  - Machine Learning model deployment
+  - Contributing to open source
+
+Interests:
+  - Clean code architecture
+  - System design & scalability
+  - AI/ML research & innovation
+  - Open source contribution
+
+Fun Facts:
+  - ☕ Coffee enthusiast
+  - 🎌 Anime lover
+  - 📚 Avid reader
+  - 🌙 Night coder
+  - 🎮 Strategy game player
+
+Looking For:
+  - Exciting project collaborations
+  - Open source opportunities
+  - Technical mentorship roles
+  - Freelance engagements
+  - Full-time opportunities
+```
+
+</div>
+
+---
+
+## 🌟 Support My Work
+
+<div align="center">
+
+If you find my projects helpful or interesting:
+
+⭐ **Star my repositories** - It means a lot!
+
+🔄 **Share with others** - Help spread the word
+
+🤝 **Collaborate** - Let's build something together
+
+☕ **Buy me a coffee** - Support my late-night coding sessions
+
+<br>
+
+[!["Buy Me A Coffee"](https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/pranaypatel)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer&text=Thanks%20for%20Visiting!%20⭐&fontSize=28&fontAlignY=70&animation=twinkling&fontColor=fff" width="100%"/>
+
+### 🙏 Thank You for Stopping By!
+
+<sub>💙 Made with ❤️ by [Pranay Patel](https://github.com/pranaypatel) | Ahmedabad, Gujarat, India 🇮🇳</sub>
+
+<br>
+
+**✨ If you like my work, consider giving a ⭐ to my repositories!**
+
+<br>
+
+![Visitor Count](https://profile-counter.glitch.me/pranaypatel/count.svg)
+
+<br>
+
+<sub>⚡ *Last updated: Auto-updated by GitHub Actions* ⚡</sub>
+
+</div>128/3281/3281307.png" width="48"/><br>
       <b>Full Stack Development</b><br>
       <sub>End-to-end web applications</sub>
     </td>
