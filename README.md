@@ -11,7 +11,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=pranaypatel&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/pranaypatel?label=Followers&style=for-the-badge&color=10b981" alt="followers" />
-  <img src="https://img.shields.io/github/stars/pranaypatel?label=Total%20Stars&style=for-the-badge&color=f59e0b" alt="stars" />
 </p>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Explore_My_Work-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/pranaypatel1212/home?authuser=0)
@@ -59,14 +58,6 @@ class PranayPatel:
             ]
         }
     
-    def daily_routine(self):
-        return {
-            "morning": "☕ Coffee + Code review",
-            "afternoon": "💻 Deep work on projects",
-            "evening": "📚 Learning new technologies",
-            "night": "🎌 Anime or reading tech blogs"
-        }
-    
     def say_hi(self):
         print(
             "Thanks for visiting my profile! "
@@ -79,67 +70,6 @@ class PranayPatel:
 me = PranayPatel()
 me.say_hi()
 ```
-
----
-
-## 🎯 Quick Facts
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://cdn-icons-png.flaticon.com/128/2620/2620163.png" width="48"/>
-      <br><br>
-      <b>🔭 Currently Working On</b>
-      <br><br>
-      <sub>
-        • AI-powered web apps<br>
-        • ERPNext customizations<br>
-        • ML model deployment<br>
-        • Full-stack projects
-      </sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn-icons-png.flaticon.com/128/3914/3914183.png" width="48"/>
-      <br><br>
-      <b>🌱 Currently Learning</b>
-      <br><br>
-      <sub>
-        • Advanced AI/ML<br>
-        • Cloud architecture<br>
-        • Microservices<br>
-        • System design
-      </sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn-icons-png.flaticon.com/128/1055/1055646.png" width="48"/>
-      <br><br>
-      <b>💬 Ask Me About</b>
-      <br><br>
-      <sub>
-        • React & Python<br>
-        • Machine Learning<br>
-        • Django & Flask<br>
-        • ERPNext/Frappe
-      </sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn-icons-png.flaticon.com/128/2965/2965879.png" width="48"/>
-      <br><br>
-      <b>⚡ Fun Facts</b>
-      <br><br>
-      <sub>
-        • Anime enthusiast 🎌<br>
-        • Book lover 📚<br>
-        • Coffee addict ☕<br>
-        • Night coder 🌙
-      </sub>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
@@ -183,7 +113,6 @@ me.say_hi()
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗄️ Databases
 
@@ -205,48 +134,38 @@ me.say_hi()
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### 🔧 Tools & IDEs
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranaypatel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=10B981&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pranaypatel&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranaypatel&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=10&hide=jupyter%20notebook" alt="Top Languages" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=pranaypatel&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&layout=compact" alt="Wakatime Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranaypatel&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranaypatel&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 
 </div>
 
-### 📈 Contribution Graph
+### 📈 Activity Graph
 
 <div align="center">
 
-[![Pranay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranaypatel&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=10B981&point=FFFFFF)](https://github.com/pranaypatel)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranaypatel&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=10B981&point=FFFFFF)](https://github.com/pranaypatel)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pranaypatel&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophies](https://github-profile-trophy.vercel.app/?username=pranaypatel&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
 </div>
 
@@ -262,105 +181,74 @@ me.say_hi()
 | **React & JavaScript** | ![](https://geps.dev/progress/88?dangerColor=ef4444&warningColor=f59e0b&successColor=10b981) | 🚀 Advanced | 2.5+ |
 | **Machine Learning & AI** | ![](https://geps.dev/progress/85?dangerColor=ef4444&warningColor=f59e0b&successColor=10b981) | 🚀 Advanced | 2+ |
 | **ERPNext/Frappe** | ![](https://geps.dev/progress/90?dangerColor=ef4444&warningColor=f59e0b&successColor=10b981) | 🌟 Expert | 2+ |
-| **Java Development** | ![](https://geps.dev/progress/80?dangerColor=ef4444&warningColor=f59e0b&successColor=10b981) | 💡 Intermediate-Advanced | 2+ |
 | **Database Management** | ![](https://geps.dev/progress/87?dangerColor=ef4444&warningColor=f59e0b&successColor=10b981) | 🚀 Advanced | 3+ |
-| **DevOps & Cloud** | ![](https://geps.dev/progress/78?dangerColor=ef4444&warningColor=f59e0b&successColor=10b981) | 💡 Intermediate | 1.5+ |
 | **REST API Design** | ![](https://geps.dev/progress/89?dangerColor=ef4444&warningColor=f59e0b&successColor=10b981) | 🚀 Advanced | 3+ |
+| **DevOps & Cloud** | ![](https://geps.dev/progress/78?dangerColor=ef4444&warningColor=f59e0b&successColor=10b981) | 💡 Intermediate | 1.5+ |
 
 </div>
 
 ---
 
-## 💼 Core Competencies
+## 💼 Professional Services
 
-<table align="center">
+<div align="center">
+
+### 🤝 Available For
+
+<table>
   <tr>
-    <td valign="top" width="33%">
-      
-### 🎨 Frontend Excellence
-- ⚛️ Modern React.js with Hooks
-- 🎭 Responsive & Accessible UI/UX
-- 🔄 State Management (Redux, Context)
-- ⚡ Performance Optimization
-- 📱 Mobile-First Development
-- 🌐 Cross-Browser Compatibility
-- 🎨 CSS-in-JS & Tailwind CSS
-- 🔧 Component-Based Architecture
-
+    <td align="center" width="33%">
+      <br>
+      <b>💻 Full Stack Development</b>
+      <br><br>
+      <sub>End-to-end web applications</sub>
+      <br><br>
     </td>
-    <td valign="top" width="33%">
-      
-### ⚙️ Backend Mastery
-- 🐍 Python (Django, Flask, FastAPI)
-- 🔌 RESTful API Architecture
-- 🗄️ Database Design & Optimization
-- 🔐 Authentication & Authorization
-- 📊 Data Modeling & ORM
-- 🚀 Scalable System Design
-- 🔄 Microservices Architecture
-- ⚡ Caching & Performance Tuning
-
+    <td align="center" width="33%">
+      <br>
+      <b>🤖 ML/AI Projects</b>
+      <br><br>
+      <sub>Intelligent automation solutions</sub>
+      <br><br>
     </td>
-    <td valign="top" width="33%">
-      
-### 🤖 AI/ML Expertise
-- 🧠 Deep Learning (TF, PyTorch)
-- 📊 Predictive Analytics
-- 🖼️ Computer Vision (OpenCV)
-- 📈 Statistical Analysis
-- 🔍 Natural Language Processing
-- 🎯 Model Training & Optimization
-- 📉 Data Preprocessing & Feature Engineering
-- 🚀 Model Deployment & MLOps
-
+    <td align="center" width="33%">
+      <br>
+      <b>📊 ERPNext Consulting</b>
+      <br><br>
+      <sub>Custom ERP implementations</sub>
+      <br><br>
     </td>
   </tr>
   <tr>
-    <td valign="top" width="33%">
-      
-### 📊 ERP Solutions
-- 🛠️ Custom ERPNext Development
-- 🔧 Frappe Framework Expertise
-- 📋 Business Process Automation
-- 📊 Custom Reports & Dashboards
-- 🔗 Third-Party API Integration
-- ⚙️ Workflow Customization
-- 📱 Mobile App Development
-- 🎯 Performance Optimization
-
+    <td align="center" width="33%">
+      <br>
+      <b>🌟 Open Source Contribution</b>
+      <br><br>
+      <sub>Community-driven projects</sub>
+      <br><br>
     </td>
-    <td valign="top" width="33%">
-      
-### 🗄️ Database Skills
-- 🐬 MySQL & PostgreSQL
-- 🍃 MongoDB (NoSQL)
-- ⚡ Redis (Caching)
-- 📊 Query Optimization
-- 🔄 Database Migration
-- 🔐 Security Best Practices
-- 📈 Indexing Strategies
-- 🔧 Replication & Backup
-
+    <td align="center" width="33%">
+      <br>
+      <b>💼 Freelance Work</b>
+      <br><br>
+      <sub>Project-based engagements</sub>
+      <br><br>
     </td>
-    <td valign="top" width="33%">
-      
-### ☁️ DevOps & Tools
-- 🐳 Docker Containerization
-- 📦 Git Version Control
-- 🔧 CI/CD Pipelines
-- 🐧 Linux System Administration
-- 🌐 Nginx & Apache
-- 📊 Monitoring & Logging
-- 🔐 Security Hardening
-- ☁️ Cloud Deployment (AWS)
-
+    <td align="center" width="33%">
+      <br>
+      <b>🎓 Technical Mentorship</b>
+      <br><br>
+      <sub>Skill development & guidance</sub>
+      <br><br>
     </td>
   </tr>
 </table>
 
+</div>
+
 ---
 
-## 🚀 Featured Projects Showcase
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -373,245 +261,6 @@ me.say_hi()
 <br><br>
 
 *Discover detailed case studies, live demos, and comprehensive project documentation showcasing my work in Full Stack Development, Machine Learning, and ERPNext Solutions.*
-
-</div>
-
----
-
-## 📈 Detailed Contribution Analytics
-
-<div align="center">
-
-### 📊 Profile Summary
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranaypatel&theme=tokyonight" alt="Profile Summary" />
-
-### 📉 Repository & Language Stats
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranaypatel&theme=tokyonight" alt="Repos Per Language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranaypatel&theme=tokyonight" alt="Most Commit Language" />
-
-### 📊 Commit Stats & Productivity
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranaypatel&theme=tokyonight" alt="Stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranaypatel&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-
-### 📅 Contribution Heatmap
-
-<a href="https://github.com/pranaypatel">
-  <img src="https://ghchart.rshah.org/3b82f6/pranaypatel" alt="Pranay's GitHub Contribution Chart" width="80%" />
-</a>
-
-</div>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranaypatel/pranaypatel/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranaypatel/pranaypatel/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pranaypatel/pranaypatel/output/github-contribution-grid-snake.svg">
-</picture>
-
-<details>
-<summary>🔧 How to Enable Snake Animation (Click to Expand)</summary>
-
-<br>
-
-To enable the contribution snake animation in your profile:
-
-1. **Create a new repository** named after your GitHub username (e.g., `pranaypatel`)
-2. **Create `.github/workflows/snake.yml`** file with this content:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"  # Every 12 hours
-  workflow_dispatch:
-  push:
-    branches:
-    - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. **Commit and push** the workflow file
-4. **Wait for the action to run** (or trigger it manually from Actions tab)
-5. The snake will be generated in the `output` branch!
-
-</details>
-
-</div>
-
----
-
-## 💭 Developer Philosophy
-
-<div align="center">
-
-```javascript
-const myPhilosophy = {
-    code: {
-        quality: "Clean, maintainable, and well-documented",
-        testing: "Test-driven development is not optional",
-        reviews: "Every line deserves careful consideration",
-        refactoring: "Continuous improvement is the key"
-    },
-    
-    problemSolving: {
-        approach: "Understand first, then code",
-        strategy: "Break complex problems into simple solutions",
-        debugging: "Patience and systematic analysis",
-        learning: "Every bug is a learning opportunity"
-    },
-    
-    collaboration: {
-        communication: "Clear, concise, and constructive",
-        teamwork: "Together we achieve more",
-        mentorship: "Knowledge sharing builds better teams",
-        feedback: "Growth through honest feedback"
-    },
-    
-    growth: {
-        learning: "Continuous and curiosity-driven",
-        innovation: "Always exploring new technologies",
-        adaptation: "Embrace change and new challenges",
-        excellence: "Strive for mastery, not perfection"
-    },
-    
-    delivery: {
-        commitment: "On-time with attention to detail",
-        reliability: "Consistent quality delivery",
-        ownership: "Take pride in every project",
-        impact: "Build solutions that matter"
-    }
-};
-
-console.log("💡 Code with purpose, learn with passion, deliver with excellence!");
-```
-
-</div>
-
----
-
-## 🎯 2026 Goals & Milestones
-
-<div align="center">
-
-| Goal | Status | Progress | Target Date |
-|:-----|:------:|:--------:|:-----------:|
-| 🌟 Contribute to 5 Major Open Source Projects | 🏃 In Progress | ![](https://geps.dev/progress/40) | Dec 2026 |
-| 🚀 Launch 3 Production-Grade ML Applications | 🏃 In Progress | ![](https://geps.dev/progress/25) | Oct 2026 |
-| ☁️ Master Cloud Technologies (AWS/Azure) | 🏃 In Progress | ![](https://geps.dev/progress/60) | Aug 2026 |
-| 📚 Publish 12 Technical Blog Posts | 🏃 In Progress | ![](https://geps.dev/progress/35) | Dec 2026 |
-| 🎓 Complete Advanced ML Certification | ⏳ Planned | ![](https://geps.dev/progress/15) | Sep 2026 |
-| 🤝 Mentor 10+ Developers | 🏃 In Progress | ![](https://geps.dev/progress/50) | Dec 2026 |
-
-</div>
-
----
-
-## 📚 Latest Blog Posts & Articles
-
-<div align="center">
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-*📝 Blog posts will appear here once you set up the blog post workflow!*
-
-<details>
-<summary>🔧 How to Enable Blog Posts (Click to Expand)</summary>
-
-<br>
-
-Add this to your `.github/workflows/blog-post-workflow.yml`:
-
-```yaml
-name: Latest blog post workflow
-on:
-  schedule:
-    - cron: '0 */12 * * *'
-  workflow_dispatch:
-
-jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "YOUR_BLOG_RSS_FEED_URL"
-```
-
-</details>
-
-</div>
-
----
-
-## 💼 Professional Services & Opportunities
-
-<div align="center">
-
-### 🤝 I'm Available For
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/128/1005/1005141.png" width="48"/><br>
-      <b>Open Source Contribution</b><br>
-      <sub>Community-driven projects</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/128/3281/3281289.png" width="48"/><br>
-      <b>Freelance Work</b><br>
-      <sub>Project-based engagements</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/128/3305/3305645.png" width="48"/><br>
-      <b>Technical Mentorship</b><br>
-      <sub>Skill development & guidance</sub>
-    </td>
-  </tr>
-</table>
-
-### 💡 What I Bring to Your Project
-
-- ✅ **Clean Code Architecture** - Maintainable and scalable solutions
-- ✅ **Rapid Development** - Efficient delivery without compromising quality
-- ✅ **Problem-Solving Mindset** - Creative solutions to complex challenges
-- ✅ **Communication Excellence** - Clear updates and collaborative approach
-- ✅ **Full Project Ownership** - From concept to deployment
-- ✅ **Modern Tech Stack** - Latest tools and best practices
 
 </div>
 
@@ -638,21 +287,6 @@ jobs:
 </a>
 </p>
 
-<p>
-<a href="https://twitter.com/pranaypatel" target="_blank">
-  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://stackoverflow.com/users/pranaypatel" target="_blank">
-  <img src="https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-</a>
-<a href="https://medium.com/@pranaypatel" target="_blank">
-  <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-</a>
-<a href="https://dev.to/pranaypatel" target="_blank">
-  <img src="https://img.shields.io/badge/-DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to"/>
-</a>
-</p>
-
 ### 📧 Reach Out For
 
 💼 **Job Opportunities** • 🤝 **Collaboration** • 💡 **Project Discussions** • 🎓 **Mentorship** • ☕ **Tech Talks**
@@ -665,208 +299,11 @@ jobs:
 
 ---
 
-## 🎮 When I'm Not Coding
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://cdn-icons-png.flaticon.com/128/2232/2232688.png" width="60"/><br>
-      <b>📚 Reading</b><br>
-      <sub>Tech books & blogs</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn-icons-png.flaticon.com/128/3176/3176366.png" width="60"/><br>
-      <b>🎌 Anime</b><br>
-      <sub>Animation enthusiast</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn-icons-png.flaticon.com/128/924/924514.png" width="60"/><br>
-      <b>☕ Coffee</b><br>
-      <sub>Fuel for coding</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn-icons-png.flaticon.com/128/2809/2809590.png" width="60"/><br>
-      <b>🎮 Gaming</b><br>
-      <sub>Strategy & puzzle games</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 📊 Weekly Development Breakdown
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<sub>📝 *WakaTime stats will appear here once you set up the integration*</sub>
-
-<details>
-<summary>🔧 How to Enable WakaTime Stats (Click to Expand)</summary>
-
-<br>
-
-1. Sign up at [WakaTime](https://wakatime.com)
-2. Install WakaTime plugin in your IDE
-3. Get your WakaTime API key
-4. Add it to your repository secrets as `WAKATIME_API_KEY`
-5. Create `.github/workflows/waka-readme.yml`:
-
-```yaml
-name: Waka Readme
-
-on:
-  schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
-</div>
-
----
-
 ## 💭 Random Dev Quote
 
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 📈 Metrics & Activity
-
-<div align="center">
-
-### 🔥 Streak Stats
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pranaypatel&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=10B981&currStreakLabel=10B981&dates=FFFFFF&sideLabels=10B981&currStreakNum=FFFFFF&sideNums=FFFFFF)
-
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<sub>📝 *Recent activity will appear here once you set up the GitHub activity workflow*</sub>
-
-<details>
-<summary>🔧 How to Enable Recent Activity (Click to Expand)</summary>
-
-<br>
-
-Create `.github/workflows/update-readme.yml`:
-
-```yaml
-name: Update README
-
-on:
-  schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
-
-    steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
-</div>
-
----
-
-## 🎯 Profile Summary
-
-<div align="center">
-
-```yaml
-Name: Pranay Patel
-Location: Ahmedabad, Gujarat, India 🇮🇳
-Role: Full Stack Developer & ML Engineer
-Education: LJ University 🎓
-
-Expertise:
-  - Frontend: React.js, JavaScript, HTML/CSS, Tailwind
-  - Backend: Python, Django, Flask, Node.js, Java
-  - AI/ML: TensorFlow, PyTorch, Scikit-Learn, OpenCV
-  - ERP: ERPNext, Frappe Framework
-  - Database: MySQL, PostgreSQL, MongoDB, Redis
-  - DevOps: Docker, Git, Linux, AWS
-
-Current Focus:
-  - Building AI-powered web applications
-  - Custom ERPNext solutions
-  - Machine Learning model deployment
-  - Contributing to open source
-
-Interests:
-  - Clean code architecture
-  - System design & scalability
-  - AI/ML research & innovation
-  - Open source contribution
-
-Fun Facts:
-  - ☕ Coffee enthusiast
-  - 🎌 Anime lover
-  - 📚 Avid reader
-  - 🌙 Night coder
-  - 🎮 Strategy game player
-
-Looking For:
-  - Exciting project collaborations
-  - Open source opportunities
-  - Technical mentorship roles
-  - Freelance engagements
-  - Full-time opportunities
-```
-
-</div>
-
----
-
-## 🌟 Support My Work
-
-<div align="center">
-
-If you find my projects helpful or interesting:
-
-⭐ **Star my repositories** - It means a lot!
-
-🔄 **Share with others** - Help spread the word
-
-🤝 **Collaborate** - Let's build something together
-
-☕ **Buy me a coffee** - Support my late-night coding sessions
-
-<br>
-
-[!["Buy Me A Coffee"](https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/pranaypatel)
 
 </div>
 
@@ -888,25 +325,4 @@ If you find my projects helpful or interesting:
 
 ![Visitor Count](https://profile-counter.glitch.me/pranaypatel/count.svg)
 
-<br>
-
-<sub>⚡ *Last updated: Auto-updated by GitHub Actions* ⚡</sub>
-
-</div>128/3281/3281307.png" width="48"/><br>
-      <b>Full Stack Development</b><br>
-      <sub>End-to-end web applications</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/128/4727/4727266.png" width="48"/><br>
-      <b>ML/AI Projects</b><br>
-      <sub>Intelligent automation solutions</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/128/2910/2910791.png" width="48"/><br>
-      <b>ERPNext Consulting</b><br>
-      <sub>Custom ERP implementations</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/
+</div>
