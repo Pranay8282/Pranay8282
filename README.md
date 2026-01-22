@@ -9,12 +9,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Pranay+Patel+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Engineer+%F0%9F%A4%96;ERPNext+Specialist+%F0%9F%93%8A;Problem+Solver+%26+Innovator+%F0%9F%9A%80;Building+AI-Powered+Solutions!)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=pranaypatel&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/pranaypatel?label=Followers&style=for-the-badge&color=10b981" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Pranay8282&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Pranay8282?label=Followers&style=for-the-badge&color=10b981" alt="followers" />
 </p>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Explore_My_Work-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/pranaypatel1212/home?authuser=0)
-[![Email](https://img.shields.io/badge/📧_Email-Let's_Connect-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranaypatel9696@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Explore_My_Work-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/Pranay82821212/home?authuser=0)
+[![Email](https://img.shields.io/badge/📧_Email-Let's_Connect-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Pranay82829696@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranay-patel)
 
 </div>
@@ -26,7 +26,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```python
-class PranayPatel:
+class Pranay8282:
     def __init__(self):
         self.name = "Pranay Patel"
         self.role = "Full Stack Developer & ML Engineer"
@@ -49,7 +49,7 @@ class PranayPatel:
             "Let's create something amazing together! 🚀"
         )
 
-me = PranayPatel()
+me = Pranay8282()
 me.say_hi()
 ```
 
@@ -114,9 +114,9 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://github.com/pranaypatel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranaypatel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=10B981&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaypatel&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF"/>
+<a href="https://github.com/Pranay8282">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pranay8282&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=10B981&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay8282&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF"/>
 </a>
 
 </div>
@@ -127,7 +127,7 @@ me.say_hi()
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pranaypatel&theme=radical&hide_border=true&background=0D1117&ring=3B82F6&fire=10B981&currStreakLabel=10B981)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pranay8282&theme=radical&hide_border=true&background=0D1117&ring=3B82F6&fire=10B981&currStreakLabel=10B981)](https://git.io/streak-stats)
 
 </div>
 
@@ -137,7 +137,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranaypatel&custom_title=Pranay's%20Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=10B981&point=FFFFFF&area_color=0D1117&area=true&hide_border=true)](https://github.com/pranaypatel)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranay8282&custom_title=Pranay's%20Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=10B981&point=FFFFFF&area_color=0D1117&area=true&hide_border=true)](https://github.com/Pranay8282)
 
 </div>
 
@@ -147,7 +147,7 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pranaypatel&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&title=MultiLanguage,Commits,PullRequest,Issues,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pranay8282&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&title=MultiLanguage,Commits,PullRequest,Issues,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -159,20 +159,20 @@ me.say_hi()
 
 ### Profile Summary Card
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranaypatel&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranay8282&theme=radical)
 
 ### Stats Overview
 
-<a href="https://github.com/pranaypatel">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranaypatel&theme=radical" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranaypatel&theme=radical&utcOffset=5.5" />
+<a href="https://github.com/Pranay8282">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranay8282&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pranay8282&theme=radical&utcOffset=5.5" />
 </a>
 
 ### Language Distribution
 
-<a href="https://github.com/pranaypatel">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranaypatel&theme=radical" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranaypatel&theme=radical" />
+<a href="https://github.com/Pranay8282">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranay8282&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranay8282&theme=radical" />
 </a>
 
 </div>
@@ -260,7 +260,7 @@ me.say_hi()
 
 ### 🌟 View My Complete Portfolio
 
-<a href="https://sites.google.com/view/pranaypatel1212/home?authuser=0">
+<a href="https://sites.google.com/view/Pranay82821212/home?authuser=0">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Click_Here-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
@@ -282,13 +282,13 @@ me.say_hi()
 <a href="https://linkedin.com/in/pranay-patel">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/pranaypatel">
+<a href="https://github.com/Pranay8282">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="mailto:pranaypatel9696@gmail.com">
+<a href="mailto:Pranay82829696@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://sites.google.com/view/pranaypatel1212/home?authuser=0">
+<a href="https://sites.google.com/view/Pranay82821212/home?authuser=0">
   <img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 </p>
@@ -317,7 +317,7 @@ me.say_hi()
 
 ### 🙏 Thank You for Stopping By!
 
-<sub>Made with ❤️ by [Pranay Patel](https://github.com/pranaypatel) | Ahmedabad, Gujarat, India 🇮🇳</sub>
+<sub>Made with ❤️ by [Pranay Patel](https://github.com/Pranay8282) | Ahmedabad, Gujarat, India 🇮🇳</sub>
 
 <br>
 
@@ -325,6 +325,6 @@ me.say_hi()
 
 <br>
 
-![Visitor Count](https://profile-counter.glitch.me/pranaypatel/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Pranay8282/count.svg)
 
 </div>
